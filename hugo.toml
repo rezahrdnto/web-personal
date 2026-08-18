@@ -1,4 +1,4 @@
-baseURL = "[https://web-personal-liart.vercel.app/](https://web-personal-liart.vercel.app/)"
+baseURL = "https://web-personal-liart.vercel.app/"
 locale = 'en-us'
 title = 'Dieja Pertama'
 theme = "PaperMod"
