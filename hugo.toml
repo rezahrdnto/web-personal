@@ -1,4 +1,4 @@
-baseURL = "https://web-personal-hqqpspdaj-dieja.vercel.app/"
+baseURL = "/"
 locale = 'en-us'
 title = 'Dieja Pertama'
 theme = "PaperMod"
