@@ -2,8 +2,10 @@ baseURL = "https://web-personal-hqqpspdaj-dieja.vercel.app/"
 locale = 'en-us'
 title = 'Dieja Pertama'
 theme = "PaperMod"
+
 [params]
 mainSections = ["posts"]
+
 [params.profileMode]
 enabled = false
 
