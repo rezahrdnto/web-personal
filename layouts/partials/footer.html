@@ -1,0 +1,14 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const jam = new Date().getHours();
+    let sapaan = "Malam";
+    if (jam >= 3 && jam < 11) sapaan = "Pagi";
+    else if (jam >= 11 && jam < 15) sapaan = "Siang";
+    else if (jam >= 15 && jam < 18) sapaan = "Sore";
+
+    const judul = document.querySelector('.home-info .entry-header h1');
+    if (judul) {
+      judul.innerText = sapaan;
+    }
+  });
+</script>
