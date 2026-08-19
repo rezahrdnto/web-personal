@@ -1,0 +1,10 @@
+<script>
+  const jam = new Date().getHours();
+  let text = "Malam";
+  if (jam >= 3 && jam < 11) text = "Pagi";
+  else if (jam >= 11 && jam < 15) text = "Siang";
+  else if (jam >= 15 && jam < 18) text = "Sore";
+  
+  const target = document.getElementById("sapaan-waktu");
+  if (target) target.innerText = text;
+</script>

@@ -16,7 +16,7 @@ ShowPostDescription = true
 enabled = false
 
 [params.homeInfoParams]
-Title = "Halo"
+Title = '<span id="sapaan-waktu">Halo</span>'
 Content = "Tulisan pendek."
 
 [[params.socialIcons]]
