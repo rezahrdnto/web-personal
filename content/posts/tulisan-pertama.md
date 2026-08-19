@@ -5,4 +5,5 @@ title = 'Tulisan Pertama'
 description = 'Gumaman Sambil Lalu'
 categories = ["Gumaman Sambil Lalu"]
 +++
-Kalo ayam dulunya t-rex, di masa depan apakah akan jadi t-rex lagi? Cycle yang berulang mungkin? 
+
+Kalo ayam dulunya t-rex, di masa depan apakah akan jadi t-rex lagi? Cycle yang berulang mungkin?
