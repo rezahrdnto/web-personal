@@ -9,6 +9,7 @@ mainSections = ["posts"]
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 hideFooter = true
+ShowPostCategories = true
 
 [params.profileMode]
 enabled = false
