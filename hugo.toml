@@ -2,6 +2,7 @@ baseURL = "https://web-personal-dieja.vercel.app/"
 locale = 'en-us'
 title = 'Dieja Pertama'
 theme = "PaperMod"
+relativeURLs = true
 
 [params]
 mainSections = ["posts"]
