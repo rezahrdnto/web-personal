@@ -1,0 +1,6 @@
+function send {
+    param([string]$pesan = "update otomatis")
+    git add .
+    git commit -m "$pesan"
+    git push
+}
