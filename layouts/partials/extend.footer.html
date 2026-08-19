@@ -1,10 +1,15 @@
 <script>
-  const jam = new Date().getHours();
-  let text = "Malam";
-  if (jam >= 3 && jam < 11) text = "Pagi";
-  else if (jam >= 11 && jam < 15) text = "Siang";
-  else if (jam >= 15 && jam < 18) text = "Sore";
-  
-  const target = document.getElementById("sapaan-waktu");
-  if (target) target.innerText = text;
+  document.addEventListener("DOMContentLoaded", function() {
+    const jam = new Date().getHours();
+    let sapaan = "Malam";
+    if (jam >= 3 && jam < 11) sapaan = "Pagi";
+    else if (jam >= 11 && jam < 15) sapaan = "Siang";
+    else if (jam >= 15 && jam < 18) sapaan = "Sore";
+
+    // Mencari elemen judul di halaman utama secara langsung
+    const judulHome = document.querySelector('.home-info h1, .first-entry h1, header h1');
+    if (judulHome && judulHome.innerText.includes("Halo")) {
+      judulHome.innerText = sapaan;
+    }
+  });
 </script>
