@@ -10,6 +10,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 hideFooter = true
 ShowPostCategories = true
+ShowPostDescription = true
 
 [params.profileMode]
 enabled = false
