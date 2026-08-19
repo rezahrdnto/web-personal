@@ -1,17 +1,13 @@
 baseURL = "https://web-personal-dieja.vercel.app/"
-locale = 'en-us'
-title = 'Dieja'
+languageCode = "en-us"
+title = "Dieja"
 theme = "PaperMod"
-relativeURLs = true
 
 [params]
 defaultTheme = "auto"
 mainSections = ["posts"]
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
-
-[params.fuseOpts]
-enable = true
 
 [params.profileMode]
 enabled = false
