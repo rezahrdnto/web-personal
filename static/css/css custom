@@ -1,0 +1,15 @@
+/* Styling kategori agar redup dan menyatu di bawah judul */
+.post-meta .taxonomies {
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 0.85rem;
+    color: var(--secondary);
+}
+.post-meta .taxonomies a {
+    color: var(--secondary);
+    text-decoration: none;
+}
+.post-meta .taxonomies a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
