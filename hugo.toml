@@ -24,8 +24,8 @@ name = "Instagram"
 url = "https://www.instagram.com/rezahrdnto"
 
 [[params.socialIcons]]
-name = "Email"
-url = "mailto:rezahrdnto@gmail.com"
+name = "email"
+url = "mailto: rezahrdnto@gmail.com"
 
 [[menu.main]]
 name = "Playlist"
