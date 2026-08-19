@@ -14,8 +14,8 @@ hideFooter = true
 enabled = false
 
 [params.homeInfoParams]
-Title = "Hi there 👋"
-Content = "Selamat datang di catatan perjalananku."
+Title = "Halo"
+Content = "Tulisan pendek."
 
 [[params.socialIcons]]
 name = "github"
