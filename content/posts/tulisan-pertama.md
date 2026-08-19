@@ -1,7 +1,7 @@
 +++
 date = '2026-08-18T21:54:31+07:00'
 draft = false
-title = 'Tulisan Pertama'
+title = 'T-Rex'
 description = 'Gumaman Sambil Lalu'
 categories = ["Gumaman Sambil Lalu"]
 +++
