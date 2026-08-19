@@ -10,6 +10,10 @@ mainSections = ["posts"]
 [params.profileMode]
 enabled = false
 
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "Selamat datang di catatan perjalananku."
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/rezahrdnto"
