@@ -20,8 +20,8 @@ Title = "Halo"
 Content = "Tulisan pendek."
 
 [[params.socialIcons]]
-name = "github"
-url = "https://github.com/rezahrdnto"
+name = "Instagram"
+url = "https://www.instagram.com/rezahrdnto"
 
 [[menu.main]]
 name = "Playlist"
